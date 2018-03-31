@@ -1,0 +1,26 @@
+0: qar-(qar-)X
+1: lgc+(qar-)L sex-(qar-)R
+2: cj(lgc+)L =pk(lgc+)R qjp-(sex-)L wo(sex-)R
+3: =am(cj)L =kb(cj)R =rp(qjp-)R sp-(wo)L wwt-(wo)R
+4: =vr(sp-)R =xf(wwt-)R
+Duplicates: 0
+Nodes: 14
+Minimum depth: 2
+Maximum depth: 4
+Value slf not found.
+Value sne not found.
+Value y not found.
+Value jxy not found.
+Value s not found.
+Value t not found.
+Value urc not found.
+Value hng not found.
+0: qar(qar)X
+1: lgc+(qar)L sex-(qar)R
+2: cj+(lgc+)L o(lgc+)R qjp-(sex-)L wo(sex-)R
+3: am-(cj+)L =kb(cj+)R =mmx(o)L =pk(o)R =rp(qjp-)R sp-(wo)L wwt-(wo)R
+4: =ayd(am-)R =vr(sp-)R =xf(wwt-)R
+Duplicates: 0
+Nodes: 17
+Minimum depth: 2
+Maximum depth: 4

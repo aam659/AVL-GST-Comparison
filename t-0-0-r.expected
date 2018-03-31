@@ -1,0 +1,19 @@
+0: n(n)X
+1: e[2]-(n)L t(n)R
+2: =b(e[2]-)L m+(e[2]-)R q(t)L x(t)R
+3: =h(m+)L =o(q)L =r(q)R =u[2](x)L =z(x)R
+Duplicates: 2
+Nodes: 12
+Minimum depth: 2
+Maximum depth: 3
+Value g not found.
+Value y not found.
+Value t not found.
+0: n-(n-)X
+1: e[2](n-)L u[2](n-)R
+2: =c(e[2])L =h(e[2])R q-(u[2])L x-(u[2])R
+3: =r(q-)R =z(x-)R
+Duplicates: 2
+Nodes: 9
+Minimum depth: 2
+Maximum depth: 3

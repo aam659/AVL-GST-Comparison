@@ -1,0 +1,22 @@
+0: t(t)X
+1: o(t)L u[2](t)R
+2: n(o)L q(o)R z(u[2])R
+3: e[2](n)L =r(q)R =x(z)L
+4: =b(e[2])L m(e[2])R
+5: =h(m)L
+Duplicates: 2
+Nodes: 12
+Minimum depth: 1
+Maximum depth: 5
+Value g not found.
+Value y not found.
+Value t not found.
+0: u[2](u[2])X
+1: q(u[2])L x(u[2])R
+2: n(q)L =r(q)R =z(x)R
+3: e[2](n)L
+4: =c(e[2])L =h(e[2])R
+Duplicates: 2
+Nodes: 9
+Minimum depth: 1
+Maximum depth: 4

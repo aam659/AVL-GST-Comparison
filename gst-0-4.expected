@@ -1,0 +1,19 @@
+GST:
+0: 7(7)X
+1: 0(7)L 11(7)R
+2: 2(0)R 8(11)L =12(11)R
+3: 6(2)R =9(8)R
+4: 4(6)L
+5: =3(4)L
+debug: [7 [0 [2 [6 [4 [3]]]]] [11 [8 [9]] [12]]]
+size is 10
+GST:
+0: 7(7)X
+1: =4(7)L 11(7)R
+2: =9(11)L
+debug: [7 [4] [11 [9]]]
+size is 4
+Duplicates: 0
+Nodes: 4
+Minimum depth: 1
+Maximum depth: 2

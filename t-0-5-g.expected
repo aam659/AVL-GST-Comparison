@@ -1,0 +1,37 @@
+0: vr(vr)X
+1: ay(vr)L xs(vr)R
+2: =ax(ay)L is(ay)R vx(xs)L z[2](xs)R
+3: gk(is)L og(is)R xe(vx)R =yf(z[2])L
+4: e[2](gk)L gw(gk)R jj(og)L qo(og)R x(xe)L
+5: bf(e[2])L =f(e[2])R =h(gw)R =it(jj)L =m(jj)R oo(qo)L t(qo)R =wc(x)L
+6: =b(bf)L de(bf)R =q[2](oo)R =r(t)L v[2](t)R
+7: =d(de)L uu(v[2])L
+8: =tj(uu)L
+Duplicates: 4
+Nodes: 32
+Minimum depth: 2
+Maximum depth: 8
+Value nh not found.
+Value g not found.
+Value az not found.
+Value k not found.
+Value a not found.
+Value mz not found.
+Value fu not found.
+Value g not found.
+Value n not found.
+Value n not found.
+Value qf not found.
+Value k not found.
+0: vr(vr)X
+1: ay(vr)L xs(vr)R
+2: =ax(ay)L is(ay)R vx(xs)L z[2](xs)R
+3: gk(is)L og(is)R =vs(vx)L xe(vx)R yf(z[2])L
+4: e[2](gk)L gw(gk)R jj(og)L qo(og)R x[2](xe)L =xu(yf)L
+5: bf(e[2])L f(e[2])R =h(gw)R it(jj)L =l(jj)R oo(qo)L tj(qo)R =wc(x[2])L
+6: de(bf)R =fw(f)R =j(it)R =q[4](oo)R r(tj)L v[2](tj)R
+7: =d(de)L =ru(r)R =uu(v[2])L
+Duplicates: 7
+Nodes: 35
+Minimum depth: 2
+Maximum depth: 7

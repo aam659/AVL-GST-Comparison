@@ -1,0 +1,35 @@
+0: e[2](e[2])X
+1: =c(e[2])L g[2](e[2])R
+2: =f(g[2])L o[2](g[2])R
+3: i(o[2])L x(o[2])R
+4: k(i)R v[2](x)L =z(x)R
+5: =j[2](k)L l(k)R p[2](v[2])L
+6: =m(l)R =u(p[2])R
+Duplicates: 6
+Nodes: 15
+Minimum depth: 1
+Maximum depth: 6
+Value n not found.
+Value d not found.
+Value w not found.
+Value q not found.
+Value q not found.
+Value a not found.
+Value a not found.
+Value n not found.
+Value l not found.
+Value s not found.
+Value m not found.
+Value c not found.
+Value i not found.
+0: e(e)X
+1: =b[2](e)L g[2](e)R
+2: o[2](g[2])R
+3: j(o[2])L w(o[2])R
+4: =h[2](j)L =k(j)R v(w)L
+5: p[3](v)L
+6: =r[2](p[3])R
+Duplicates: 7
+Nodes: 11
+Minimum depth: 1
+Maximum depth: 6

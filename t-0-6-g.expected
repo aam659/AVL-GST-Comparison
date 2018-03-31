@@ -1,0 +1,53 @@
+0: xn(xn)X
+1: cpx(xn)L zrc(xn)R
+2: a x(cpx)L rov(cpx)R yd(zrc)L
+3: =a(a x)L =b(a x)R e(rov)L rxf(rov)R =xp(yd)L =zmh(yd)R
+4: dp(e)L kvu(e)R xf(rxf)R
+5: =deq(dp)L el(kvu)L qg(kvu)R t(xf)L
+6: hgu(el)R phc(qg)L rcr(qg)R vof(t)R
+7: ex(hgu)L kir(hgu)R mmz(phc)L pq(phc)R qx(rcr)L =t d(vof)L =wcx(vof)R
+8: hg(ex)R =jfi(kir)L =kqn(kir)R =lt(mmz)L op(mmz)R =qef(pq)R =rau(qx)R
+9: g(hg)L n(op)L
+10: =fw(g)L =ol(n)R
+Duplicates: 0
+Nodes: 41
+Minimum depth: 1
+Maximum depth: 10
+Value x not found.
+Value m not found.
+Value ja not found.
+Value ow not found.
+Value gn not found.
+Value jgc not found.
+Value lmk not found.
+Value ww not found.
+Value hj not found.
+Value ck not found.
+Value q m not found.
+Value pp not found.
+Value hkk not found.
+Value jz not found.
+Value fx not found.
+Value m not found.
+Value h not found.
+Value hj not found.
+Value wc not found.
+Value bko not found.
+Value dx not found.
+Value trw not found.
+0: xn(xn)X
+1: cpx(xn)L zrc(xn)R
+2: a x(cpx)L rov(cpx)R yd(zrc)L
+3: =b(a x)R e(rov)L rxf(rov)R xp(yd)L =zmh(yd)R
+4: dp(e)L kvu(e)R xf(rxf)R =xqc(xp)R
+5: =deq(dp)L el(kvu)L qg(kvu)R t(xf)L
+6: hgu(el)R phc(qg)L rcr(qg)R =scv(t)L vof(t)R
+7: ex(hgu)L kir(hgu)R mmz(phc)L pq(phc)R qx(rcr)L t d(vof)L wcx(vof)R
+8: =eq(ex)L hg(ex)R jfi(kir)L =kqn(kir)R =lt(mmz)L op(mmz)R =qef(pq)R =rau(qx)R =va(t d)R =x(wcx)R
+9: g(hg)L =ho(jfi)L =jy(jfi)R n(op)L
+10: =fw(g)L =gz(g)R ol(n)R
+11: =nb(ol)L
+Duplicates: 0
+Nodes: 49
+Minimum depth: 1
+Maximum depth: 11

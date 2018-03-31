@@ -1,0 +1,28 @@
+0: mx(mx)X
+1: m(mx)L po(mx)R
+2: k(m)L =ma(m)R o(po)L vp(po)R
+3: ju(k)L om(o)R pv(vp)L
+4: =g(ju)L =p(om)R rw(pv)R
+5: ut(rw)R
+6: =v(ut)R
+Duplicates: 0
+Nodes: 15
+Minimum depth: 2
+Maximum depth: 6
+Value i not found.
+Value du not found.
+Value y not found.
+Value ri not found.
+Value or not found.
+Value uj not found.
+Value b not found.
+0: mx(mx)X
+1: m(mx)L po(mx)R
+2: k[2](m)L =ma(m)R o(po)L vp(po)R
+3: ju(k[2])L om(o)R pv(vp)L
+4: =g(ju)L =p(om)R rw(pv)R
+5: =ut(rw)R
+Duplicates: 1
+Nodes: 14
+Minimum depth: 2
+Maximum depth: 5

@@ -1,0 +1,30 @@
+0: o[2]+(o[2]+)X
+1: i(o[2]+)L v[2](o[2]+)R
+2: e[2]-(i)L k-(i)R p[2]-(v[2])L x-(v[2])R
+3: =c(e[2]-)L g[2]+(e[2]-)R =j[2](k-)L l-(k-)R =u(p[2]-)R =z(x-)R
+4: =f(g[2]+)L =m(l-)R
+Duplicates: 6
+Nodes: 15
+Minimum depth: 2
+Maximum depth: 4
+Value n not found.
+Value d not found.
+Value w not found.
+Value q not found.
+Value q not found.
+Value a not found.
+Value a not found.
+Value n not found.
+Value l not found.
+Value s not found.
+Value m not found.
+Value c not found.
+Value i not found.
+0: o[2](o[2])X
+1: g[2](o[2])L v+(o[2])R
+2: e+(g[2])L j(g[2])R r[2]+(v+)L =w(v+)R
+3: =b[2](e+)L =h[2](j)L =k(j)R =p[3](r[2]+)L
+Duplicates: 7
+Nodes: 11
+Minimum depth: 2
+Maximum depth: 3
